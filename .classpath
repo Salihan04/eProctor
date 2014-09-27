@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="jdatepicker/|jdatepicker/|jdatepicker/" kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/User/NTU/Yr 2 Sem 2/CZ2006/Assignment/sqljdbc4.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/3"/>
+	<classpathentry kind="lib" path="C:/Users/User/Desktop/jar/bridj-0.7-20131007.003529-54.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Desktop/jar/logback-classic.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Desktop/jar/logback-core-1.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Desktop/jar/slf4j-api-1.7.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Desktop/jar/slf4j-nop-1.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Desktop/jar/thumbnailator-0.4.2-all.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Desktop/jar/webcam-capture-0.3.10-RC6.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
